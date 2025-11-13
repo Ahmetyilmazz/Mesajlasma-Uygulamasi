@@ -7,20 +7,16 @@ Flutter yolculuğuma devam ederken bu fikir tekrar aklıma geldi ve kolları sı
 🎉 Sonuç; Küçük yaş kitlesi için güvenli ve keyifli bir mesajlaşma uygulaması! Avatar seçimi ve takma ad ile bu süreçleri daha keyifli ve dikkat çekici yapmaya çalıştım. (Bu kısımlarda yeğenim ve arkadaşlarından da tavsiye aldım tabi ki 🙂)
 
 📌 Kullandığım Başlıca Kütüphaneler:
-  • flutter_webrtc: Sesli ve görüntülü aramalar 
-  • flutter_sound: Ses işlemleri
-  • provider: State management 
-  • image_picker: Resim ekleme
-  • video_player: Video oynatma
-  • emoji_picker_flutter: Emoji desteği
-  • image_gallery_saver_plus: Görselleri galeride kaydetme
-  • firebase_auth: Kullanıcı işlemleri
-  • firebase_core: Firebase temel altyapısı
-  • cloud_firestore: Dosya ve veri depolama
-  
-
-
-
+  * flutter_webrtc: Sesli ve görüntülü aramalar 
+  * flutter_sound: Ses işlemleri
+  * provider: State management 
+  * image_picker: Resim ekleme
+  * video_player: Video oynatma
+  * emoji_picker_flutter: Emoji desteği
+  * image_gallery_saver_plus: Görselleri galeride kaydetme
+  * firebase_auth: Kullanıcı işlemleri
+  * firebase_core: Firebase temel altyapısı
+  * cloud_firestore: Dosya ve veri depolama
 
 ## 📸 Ekran Görüntüleri
 Uygulamaya ait ekran görüntüleri:
