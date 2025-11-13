@@ -1,7 +1,7 @@
 
 🚀 Mesajlaşma Uygulaması ! - FLUTTER 🚀
 
-📌 Üniversite yıllarımda sürekli "Acaba arkadaşlar arasında kendi mesajlaşma uygulamamızı geliştirebilsek nasıl olur ?" diye düşünürdüm. Matematik dersleri (Diferansiyel Denklemler, Topoloji, Kısmi Diferansiyel Denklemler, Soyut Cebir...) yüzünden bir türlü fırsat bulamamıştım. 
+📌 Üniversite yıllarımda sürekli "Acaba arkadaşlar arasında kendi mesajlaşma uygulamamızı geliştirebilsek nasıl olur?" diye düşünürdüm. Matematik dersleri (Diferansiyel Denklemler, Topoloji, Kısmi Diferansiyel Denklemler, Soyut Cebir...) yüzünden bir türlü fırsat bulamamıştım. 
 Flutter yolculuğuma devam ederken bu fikir tekrar aklıma geldi ve kolları sıvadım. 
 
 🎉 Sonuç; Küçük yaş kitlesi için güvenli ve keyifli bir mesajlaşma uygulaması! Avatar seçimi ve takma ad ile bu süreçleri daha keyifli ve dikkat çekici yapmaya çalıştım. (Bu kısımlarda yeğenim ve arkadaşlarından da tavsiye aldım tabi ki 🙂)
