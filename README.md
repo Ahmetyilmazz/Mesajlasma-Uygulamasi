@@ -11,7 +11,7 @@ Flutter yolculuğuma devam ederken bu fikir tekrar aklıma geldi ve kolları sı
 • flutter_webrtc: Sesli ve görüntülü aramalar 
 • flutter_sound: Ses işlemleri
 • provider: State management 
-• image_picker: Resim ekleme 
+• image_picker: Resim ekleme
 • video_player: Video oynatma
 • emoji_picker_flutter: Emoji desteği
 • image_gallery_saver_plus: Görselleri galeride kaydetme
